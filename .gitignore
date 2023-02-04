@@ -24,3 +24,6 @@ yarn-error.log*
 
 .vscode
 tp.js
+todo.md
+
+.env

@@ -23,7 +23,7 @@ body {
 }
 
 #stars-container {
-  height: 400px;
+  min-height: 400px;
   width: 200%;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #191f24 100%);
   overflow: hidden;

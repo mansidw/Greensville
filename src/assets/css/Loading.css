@@ -68,3 +68,98 @@ circle {
     stroke-dashoffset: 114;
   }
 }
+
+/* news cards css */
+
+.card {
+  display: block;
+  color: initial;
+  text-decoration: none;
+  width: 326px;
+  height: 250px;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 35px 80px rgb(0, 0, 0, 0.15);
+  transition: 0.5s;
+  position: relative;
+  margin-left: 40px;
+  margin-top: 67px;
+}
+.card:hover {
+  height: 350px;
+}
+.card-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -40px;
+  background: transparent;
+  height: 200px;
+  width: 254px;
+  border-radius: 10px;
+  transition: 0.5s;
+  box-shadow: 0 35px 80px rgb(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+.card:hover .card-image {
+  height: 190px;
+  width: 240px;
+  top: 0px;
+  transform: translateX(-50%);
+}
+.card-image img {
+  width: 100%;
+  border-radius: 6px;
+}
+.card-content {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.card-text {
+  padding: -10px 40px;
+  text-align: center;
+  width: 100%;
+  transition: 0.5s;
+  transform: translateY(100px);
+}
+.card:hover .card-text {
+  transform: none;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.card-subtitle {
+  font-size: 12px;
+  opacity: 0.5;
+  font-style: italic;
+}
+.card-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+.card-button {
+  padding: 10px 15px;
+  font-size: 12px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600;
+  background: #333;
+  width: 100%;
+  text-decoration: none;
+}
+.card-sentence {
+  font-size: 16px;
+  opacity: 0.7;
+  padding: 15px 0;
+}
