@@ -83,7 +83,7 @@ circle {
   transition: 0.5s;
   position: relative;
   margin-left: 40px;
-  margin-top: 67px;
+  margin-top: 40px;
 }
 .card:hover {
   height: 350px;
@@ -128,7 +128,7 @@ circle {
   text-align: center;
   width: 100%;
   transition: 0.5s;
-  transform: translateY(100px);
+  transform: translateY(128px);
 }
 .card:hover .card-text {
   transform: none;
