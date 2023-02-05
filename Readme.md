@@ -24,3 +24,11 @@ These are the features that I could not develop due to constraints in time frame
 React and REST APIs
 
 ## ScreenShots (UI killed ME!)
+
+-          |  -
+:-------------------------:|:-------------------------:
+![image1](https://user-images.githubusercontent.com/68280369/216840293-4746aaa7-49ec-40ee-8d1d-5a7a4929a9ef.png)  |  ![image2](https://user-images.githubusercontent.com/68280369/216840294-4fda864a-6398-4b3c-bc4c-b959ac0c6c65.png)
+:-------------------------:|:-------------------------:
+![image3](https://user-images.githubusercontent.com/68280369/216840280-61d27f19-1428-4d2f-873b-2e6a34c6c36c.png)  |  ![image4](https://user-images.githubusercontent.com/68280369/216840284-2bd7a396-8b7c-4d3c-9520-b297634be7de.png)
+:-------------------------:|:-------------------------:
+![image7](https://user-images.githubusercontent.com/68280369/216840290-3330b694-a3d6-4185-9db5-038af84ccb9d.png)  |  ![image8](https://user-images.githubusercontent.com/68280369/216840292-376c8847-623e-4c35-8ed4-cfbe5a3c9b07.png)
