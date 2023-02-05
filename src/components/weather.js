@@ -21,7 +21,7 @@ const Weather = () => {
   const [weather, setWeather] = useState("");
   const [name, setName] = useState("");
   useEffect(() => {
-    let city = "Mumbai";
+    let city = "London";
     axios
       .get(
         `http://api.weatherapi.com/v1/current.json?key=${process.env.REACT_APP_WEATHERAPI_KEY}&q=${city}&aqi=yes`

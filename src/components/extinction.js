@@ -102,7 +102,7 @@ const Extinction = () => {
         </Button>
       </Stack>
 
-      {organism === 1 && animal && animalindex && (
+      {organism === 2 && animal && animalindex && (
         <>
           <div class="profile-card">
             <div class="profile-card-header">
@@ -206,7 +206,7 @@ const Extinction = () => {
         </>
       )}
 
-      {organism === 2 && plant && plantindex && (
+      {organism === 1 && plant && plantindex && (
         <>
           <div class="profile-cardp">
             <div class="profile-card-header">
