@@ -1,22 +1,6 @@
 {
-  "total": 941,
+  "total": 766,
   "results": [
-    {
-      "species_id": 1265,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea sarmentosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 605,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
     {
       "species_id": 1590,
       "group_name": "Flowering Plants",
@@ -49,22 +33,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5746,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Silene lanceolata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 830,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6689,
       "group_name": "Flowering Plants",
@@ -113,22 +82,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2185,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Keysseria (=Lagenifera) helenae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 8254,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1063,
       "group_name": "Flowering Plants",
@@ -145,22 +99,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 2743,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Calyptranthes thomasiana",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 895,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5579,
       "group_name": "Flowering Plants",
@@ -193,22 +132,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4349,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea viscosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1075,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8549,
       "group_name": "Flowering Plants",
@@ -257,22 +181,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7482,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Abutilon sandwicense",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 618,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3199,
       "group_name": "Flowering Plants",
@@ -289,22 +198,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8005,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Thelypteris verecunda",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1216,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7981,
       "group_name": "Flowering Plants",
@@ -321,22 +215,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4357,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium peruvianum var. insulare",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1194,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 110,
       "group_name": "Flowering Plants",
@@ -353,22 +232,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 284,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Platydesma cornuta var. decurrens",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7046,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3578,
       "group_name": "Flowering Plants",
@@ -561,38 +425,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6258,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Varronia rupicola",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 3267,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
-    {
-      "species_id": 2769,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne bifida",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1155,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2491,
       "group_name": "Flowering Plants",
@@ -737,22 +570,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 7349,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Gesneria pauciflora",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1057,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 5785,
       "group_name": "Flowering Plants",
@@ -817,22 +635,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9752,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Eugenia bryanii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10721,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6300,
       "group_name": "Flowering Plants",
@@ -897,22 +700,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 97,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Polyscias bisattenuata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7886,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9493,
       "group_name": "Flowering Plants",
@@ -961,38 +749,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4585,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tetramolopium filiforme",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 847,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 4609,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Thelypteris yaucoensis",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1217,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3825,
       "group_name": "Flowering Plants",
@@ -1185,22 +942,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5301,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne kanehoana",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 839,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6291,
       "group_name": "Flowering Plants",
@@ -1409,22 +1151,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 255,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia parviflora",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 591,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 109,
       "group_name": "Flowering Plants",
@@ -1665,22 +1392,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4334,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lobelia monostachya",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 965,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8439,
       "group_name": "Flowering Plants",
@@ -1697,22 +1409,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4576,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium dielmannii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7529,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1334,
       "group_name": "Flowering Plants",
@@ -1761,22 +1458,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6730,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia wawrana",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1139,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6447,
       "group_name": "Flowering Plants",
@@ -1793,22 +1475,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3191,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne kealiae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 2517,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4070,
       "group_name": "Flowering Plants",
@@ -1937,38 +1604,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1597,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea spergulina var. leiopoda",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1069,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 9762,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tuberolabium guamense",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10728,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 8521,
       "group_name": "Flowering Plants",
@@ -2049,22 +1685,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 5230,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea attenuata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 2404,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1069,
       "group_name": "Flowering Plants",
@@ -2081,22 +1702,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4189,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Silene hawaiiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1001,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 4669,
       "group_name": "Flowering Plants",
@@ -2113,22 +1719,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6004,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Hesperomannia arborescens",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 731,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5700,
       "group_name": "Flowering Plants",
@@ -2257,38 +1848,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 7101,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea helleri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1067,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2648,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Viola helenae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 864,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3739,
       "group_name": "Flowering Plants",
@@ -2305,22 +1865,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9245,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia haliakalae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10230,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3359,
       "group_name": "Flowering Plants",
@@ -2385,22 +1930,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6394,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Wikstroemia skottsbergiana",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7840,
-      "abbrev": "",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7600,
       "group_name": "Flowering Plants",
@@ -2465,22 +1995,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5250,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schoepfia arenaria",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1072,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 3594,
       "group_name": "Flowering Plants",
@@ -2689,22 +2204,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4684,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia lydgatei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1128,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3206,
       "group_name": "Flowering Plants",
@@ -2737,22 +2237,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 9249,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne kauaulaensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10234,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 404,
       "group_name": "Flowering Plants",
@@ -2785,22 +2270,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3669,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Neraudia ovata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 581,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6292,
       "group_name": "Flowering Plants",
@@ -3057,22 +2527,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8954,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia iniki",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9956,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 998,
       "group_name": "Flowering Plants",
@@ -3089,22 +2544,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9247,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea jacobii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10232,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1912,
       "group_name": "Flowering Plants",
@@ -3153,22 +2593,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9616,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea diffusa subsp. diffusa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10591,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6315,
       "group_name": "Ferns and Allies",
@@ -3185,22 +2610,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7801,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea nuttallii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1148,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3293,
       "group_name": "Flowering Plants",
@@ -3265,22 +2675,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4198,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Leptocereus grantianus",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1124,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9240,
       "group_name": "Flowering Plants",
@@ -3297,22 +2692,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2751,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Polyscias lydgatei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7367,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5350,
       "group_name": "Flowering Plants",
@@ -3329,22 +2709,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9756,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Maesa walkeri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10723,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 1702,
       "group_name": "Flowering Plants",
@@ -3377,22 +2742,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1614,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Platydesma remyi",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 5709,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4062,
       "group_name": "Flowering Plants",
@@ -3441,22 +2791,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 7104,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne campanulata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1156,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 597,
       "group_name": "Flowering Plants",
@@ -3585,22 +2920,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5215,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tetramolopium rockii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 850,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 7342,
       "group_name": "Flowering Plants",
@@ -3697,22 +3017,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8956,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia scopulensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9958,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6472,
       "group_name": "Flowering Plants",
@@ -3777,22 +3082,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 3464,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Gouania hillebrandii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 719,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4818,
       "group_name": "Flowering Plants",
@@ -3921,22 +3211,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3190,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia venosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 5104,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4599,
       "group_name": "Flowering Plants",
@@ -4161,22 +3436,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5580,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Sanicula sandwicensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 3784,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1326,
       "group_name": "Flowering Plants",
@@ -4337,38 +3597,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 7039,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Agave eggersiana",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 3671,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 3622,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cranichis ricartii",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1160,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6402,
       "group_name": "Flowering Plants",
@@ -4577,38 +3806,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5698,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia hirsuta",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 589,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 3621,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Vernonia proctorii",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1158,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2520,
       "group_name": "Flowering Plants",
@@ -4641,22 +3839,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 2276,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Poa siphonoglossa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 987,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5811,
       "group_name": "Flowering Plants",
@@ -4737,22 +3920,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3699,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Amaranthus brownii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 499,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 209,
       "group_name": "Flowering Plants",
@@ -4769,22 +3937,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 2536,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne cranwelliae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 6257,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 102,
       "group_name": "Flowering Plants",
@@ -4833,54 +3986,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2527,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Myrcia paganii",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1033,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 198,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Viola oahuensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 867,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 1705,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea hookeri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 602,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3743,
       "group_name": "Flowering Plants",
@@ -4913,22 +4019,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1565,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Delissea undulata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 538,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8440,
       "group_name": "Flowering Plants",
@@ -5089,22 +4180,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 8959,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Polyscias flynnii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9961,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9759,
       "group_name": "Flowering Plants",
@@ -5169,22 +4245,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9610,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Sicyos lanceoloideus",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10585,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 860,
       "group_name": "Flowering Plants",
@@ -5281,22 +4342,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2283,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Ternstroemia subsessilis",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1007,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6343,
       "group_name": "Flowering Plants",
@@ -5409,22 +4455,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 401,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia helleri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4754,
-      "abbrev": "",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7493,
       "group_name": "Flowering Plants",
@@ -5441,22 +4472,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 722,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Catesbaea melanocarpa",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1092,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8393,
       "group_name": "Flowering Plants",
@@ -5617,22 +4633,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8445,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Vigna o-wahuensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 862,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5808,
       "group_name": "Flowering Plants",
@@ -5777,22 +4778,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 2237,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Neraudia sericea",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 779,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3608,
       "group_name": "Flowering Plants",
@@ -5953,22 +4939,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5253,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Aristida chaseae",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1085,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3848,
       "group_name": "Flowering Plants",
@@ -5985,22 +4956,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3893,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Gouania meyenii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 720,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4709,
       "group_name": "Flowering Plants",
@@ -6129,22 +5085,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4928,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Remya kauaiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 814,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9753,
       "group_name": "Flowering Plants",
@@ -6177,22 +5118,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1670,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Spermolepis hawaiiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1154,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2687,
       "group_name": "Flowering Plants",
@@ -6321,22 +5247,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5393,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Elaphoglossum serpens",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1212,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3348,
       "group_name": "Flowering Plants",
@@ -6353,22 +5264,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5845,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia kaalaensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1184,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4918,
       "group_name": "Flowering Plants",
@@ -6385,22 +5281,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9757,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Nervilia jacksoniae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10724,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 8583,
       "group_name": "Ferns and Allies",
@@ -6497,22 +5378,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5256,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Silene perlmanii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1152,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7786,
       "group_name": "Flowering Plants",
@@ -6609,22 +5475,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 4737,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Microlepia strigosa var. mauiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1840,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6389,
       "group_name": "Flowering Plants",
@@ -6801,22 +5652,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6802,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Daphnopsis helleriana",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 921,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4718,
       "group_name": "Flowering Plants",
@@ -6881,22 +5717,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8346,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Eugenia woodburyana",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1169,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 8243,
       "group_name": "Flowering Plants",
@@ -6913,22 +5734,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2542,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tabernaemontana rotensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1266,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 4459,
       "group_name": "Flowering Plants",
@@ -7089,22 +5895,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9495,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea diffusa ssp. macraei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10483,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3332,
       "group_name": "Flowering Plants",
@@ -7169,22 +5960,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3618,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Auerodendron pauciflorum",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1091,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4068,
       "group_name": "Flowering Plants",
@@ -7345,54 +6121,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2750,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Neraudia angulata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1226,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2301,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Keysseria (=Lagenifera) erici",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4487,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2927,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Abutilon eremitopetalum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 616,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2005,
       "group_name": "Flowering Plants",
@@ -7409,22 +6138,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4726,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Festuca hawaiiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 6176,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9242,
       "group_name": "Flowering Plants",
@@ -7713,22 +6427,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1452,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Delissea rhytidosperma",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 692,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1739,
       "group_name": "Flowering Plants",
@@ -7825,22 +6524,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5297,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Hesperomannia arbuscula",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 732,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3337,
       "group_name": "Flowering Plants",
@@ -7985,22 +6669,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2735,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea obovata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 622,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6701,
       "group_name": "Flowering Plants",
@@ -8017,22 +6686,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 4708,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Sanicula purpurea",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 601,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2031,
       "group_name": "Flowering Plants",
@@ -8049,22 +6703,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3364,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cyperus fauriei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1131,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 596,
       "group_name": "Flowering Plants",
@@ -8225,22 +6864,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4032,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Remya montgomeryi",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1083,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4201,
       "group_name": "Flowering Plants",
@@ -8273,22 +6897,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 6868,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cyperus pennatiformis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1032,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5829,
       "group_name": "Flowering Plants",
@@ -8497,22 +7106,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 423,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia hispida",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7229,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8952,
       "group_name": "Flowering Plants",
@@ -8529,38 +7123,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8325,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Sanicula mariversa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1146,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 282,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea spergulina var. spergulina",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1070,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 4223,
       "group_name": "Flowering Plants",
@@ -8641,22 +7204,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8955,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia pendens",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9957,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1673,
       "group_name": "Flowering Plants",
@@ -8673,22 +7221,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7341,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Silene alexandri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 829,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1348,
       "group_name": "Flowering Plants",
@@ -8737,22 +7270,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9611,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium diellaciniatum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10586,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9243,
       "group_name": "Flowering Plants",
@@ -8817,22 +7335,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 3212,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia bracteata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 2934,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 388,
       "group_name": "Flowering Plants",
@@ -9025,22 +7528,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6454,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia filifolia",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 968,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1084,
       "group_name": "Flowering Plants",
@@ -9169,38 +7657,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9612,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Deparia kaalaana",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10587,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 1655,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tetramolopium arenarium",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 845,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1882,
       "group_name": "Flowering Plants",
@@ -9233,22 +7690,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 206,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": "Proposed Reclassification to Threatened",
-      "sciname": "Mitracarpus polycladus",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 971,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4641,
       "group_name": "Flowering Plants",
@@ -9329,22 +7771,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8960,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Doryopteris angelica",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9962,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5504,
       "group_name": "Flowering Plants",
@@ -9441,22 +7868,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 1734,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cyperus neokunthianus",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1407,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7217,
       "group_name": "Flowering Plants",
@@ -9521,38 +7933,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7699,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Geocarpon minimum",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 716,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
-    {
-      "species_id": 6707,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Pteris lidgatei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1202,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3738,
       "group_name": "Flowering Plants",
@@ -9601,22 +7982,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9625,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Labordia lorenciana",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10599,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 984,
       "group_name": "Flowering Plants",
@@ -9665,38 +8031,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6289,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Huperzia stemmermanniae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4680,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 10503,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tinospora homosepala",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 11340,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 189,
       "group_name": "Flowering Plants",
@@ -9761,38 +8096,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 2846,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lobelia koolauensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 572,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 1653,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Hesperomannia lydgatei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 733,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 203,
       "group_name": "Flowering Plants",
@@ -9825,22 +8129,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3597,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea kauaiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1147,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5197,
       "group_name": "Flowering Plants",
@@ -9905,22 +8194,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9613,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cyanea kauaulaensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10588,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5484,
       "group_name": "Flowering Plants",
@@ -9985,22 +8259,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6699,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia velutina",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1137,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1911,
       "group_name": "Flowering Plants",
@@ -10097,22 +8356,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3354,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea salicaria",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4030,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6852,
       "group_name": "Flowering Plants",
@@ -10193,22 +8437,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9617,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Kadua haupuensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10592,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7380,
       "group_name": "Flowering Plants",
@@ -10593,22 +8822,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 6740,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Thelypteris inabonensis",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1215,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1090,
       "group_name": "Flowering Plants",
@@ -10689,22 +8903,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2944,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tetramolopium lepidotum ssp. lepidotum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 848,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1211,
       "group_name": "Flowering Plants",
@@ -10833,54 +9032,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9246,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia pilosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10231,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2537,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Trematolobelia singularis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1157,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 6280,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Ilex sintenisii",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1162,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7498,
       "group_name": "Flowering Plants",
@@ -10993,22 +9145,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1591,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne angustifolia var. angustifolia",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 838,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5821,
       "group_name": "Flowering Plants",
@@ -11073,38 +9210,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6468,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Xylosma crenatum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1016,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2168,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Diplazium molokaiense",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1198,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 864,
       "group_name": "Flowering Plants",
@@ -11297,22 +9403,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7438,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": "Proposed Delisting",
-      "sciname": "Phyllostegia glabra var. lanaiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 799,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3749,
       "group_name": "Flowering Plants",
@@ -11409,22 +9500,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9754,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Dendrobium guamense",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10720,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Threatened"
-    },
+
     {
       "species_id": 5497,
       "group_name": "Flowering Plants",
@@ -11441,54 +9517,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8198,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium dielfalcatum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1197,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 268,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Mitracarpus maxwelliae",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 970,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2278,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lobelia niihauensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 758,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5991,
       "group_name": "Flowering Plants",
@@ -11617,22 +9646,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 4348,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lyonia truncata var. proctorii",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1127,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2736,
       "group_name": "Flowering Plants",
@@ -11665,22 +9679,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4195,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Gonocalyx concolor",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 3990,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 9237,
       "group_name": "Flowering Plants",
@@ -11809,22 +9808,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5667,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Achyranthes mutica",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 497,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2670,
       "group_name": "Flowering Plants",
@@ -11841,22 +9825,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5703,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea verticillata",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 606,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5940,
       "group_name": "Flowering Plants",
@@ -12065,22 +10034,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9618,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lepidium orbiculare",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10593,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7093,
       "group_name": "Flowering Plants",
@@ -12257,22 +10211,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1681,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Doryopteris takeuchii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 2268,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1889,
       "group_name": "Flowering Plants",
@@ -12289,22 +10228,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 3630,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tectaria estremerana",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1214,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1854,
       "group_name": "Flowering Plants",
@@ -12321,22 +10245,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7505,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea lydgatei",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1068,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8049,
       "group_name": "Flowering Plants",
@@ -12353,22 +10262,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 5966,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Kadua parvula",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 728,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7678,
       "group_name": "Flowering Plants",
@@ -12401,22 +10295,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3211,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia warshaueri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1138,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4704,
       "group_name": "Flowering Plants",
@@ -12497,22 +10376,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1324,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea trinervis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 623,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8527,
       "group_name": "Flowering Plants",
@@ -12577,38 +10441,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6864,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Platanthera holochila",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 983,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 6690,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea kaalae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 822,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7940,
       "group_name": "Flowering Plants",
@@ -12673,38 +10506,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8461,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium unisorum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1211,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 9758,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllanthus saffordii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10725,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5560,
       "group_name": "Flowering Plants",
@@ -12753,38 +10555,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5986,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia floribunda",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4533,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 7230,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia mollis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 981,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7705,
       "group_name": "Flowering Plants",
@@ -13041,54 +10812,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 4337,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Kadua st.-johnii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 729,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 4643,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea membranacea",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 604,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 9248,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea laui",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10233,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3677,
       "group_name": "Flowering Plants",
@@ -13121,38 +10845,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6738,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Osmoxylon mariannense",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1265,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2941,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lobelia oahuensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 759,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3019,
       "group_name": "Flowering Plants",
@@ -13185,22 +10878,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5341,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Stenogyne kaalae ssp. sherffii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4297,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2747,
       "group_name": "Flowering Plants",
@@ -13217,22 +10895,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1173,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Tetramolopium remyi",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 849,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 8541,
       "group_name": "Flowering Plants",
@@ -13265,22 +10928,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2503,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Bonamia menziesii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 648,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6025,
       "group_name": "Flowering Plants",
@@ -13361,38 +11009,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8551,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia waimeae",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1135,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 4922,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia stachyoides",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 7254,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6453,
       "group_name": "Flowering Plants",
@@ -13457,38 +11074,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2961,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Asplenium dielpallidum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1218,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
-    {
-      "species_id": 2764,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Schiedea haleakalensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1066,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2500,
       "group_name": "Flowering Plants",
@@ -13537,22 +11123,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 9609,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Santalum involutum",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10584,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7361,
       "group_name": "Ferns and Allies",
@@ -13697,22 +11268,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 1652,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Kadua degeneri",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 726,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 3205,
       "group_name": "Flowering Plants",
@@ -13873,22 +11429,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 7511,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia mannii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1163,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 2239,
       "group_name": "Flowering Plants",
@@ -13953,22 +11494,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 3184,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia brevidens",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 3592,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1570,
       "group_name": "Flowering Plants",
@@ -13985,22 +11511,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 2864,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Chamaecrista glandulosa var. mirabilis",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 900,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1846,
       "group_name": "Flowering Plants",
@@ -14017,22 +11528,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 427,
-      "group_name": "Ferns and Allies",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Polystichum calderonense",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 1213,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 949,
       "group_name": "Flowering Plants",
@@ -14081,22 +11577,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 4561,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Lysimachia maxima",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1129,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 1001,
       "group_name": "Flowering Plants",
@@ -14241,22 +11722,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 394,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Viola lanaiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 866,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4812,
       "group_name": "Flowering Plants",
@@ -14289,22 +11755,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 8345,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Platydesma cornuta var. cornuta",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 8303,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5745,
       "group_name": "Flowering Plants",
@@ -14385,22 +11836,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7381,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Nesogenes rotensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 1264,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4926,
       "group_name": "Flowering Plants",
@@ -14465,22 +11901,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 6347,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Gouania vitifolia",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 721,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 7757,
       "group_name": "Ferns and Allies",
@@ -14497,22 +11918,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 5098,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia knudsenii",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 590,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5212,
       "group_name": "Flowering Plants",
@@ -14673,22 +12079,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 8958,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Phyllostegia renovans",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 9960,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 252,
       "group_name": "Flowering Plants",
@@ -14705,22 +12096,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 7228,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Cordia bellonis",
-      "status_category": "Listed",
-      "region_name": "Region 4",
-      "id": 908,
-      "abbrev": "Wherever found",
-      "region_num": 4,
-      "region_desc": "Southeast Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 418,
       "group_name": "Flowering Plants",
@@ -14785,22 +12161,7 @@
       "vip": "P",
       "status": "Endangered"
     },
-    {
-      "species_id": 854,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Wikstroemia villosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 4238,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 4458,
       "group_name": "Flowering Plants",
@@ -14897,22 +12258,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 8451,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Polyscias racemosa",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 778,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 5682,
       "group_name": "Flowering Plants",
@@ -15025,22 +12371,7 @@
       "vip": "P",
       "status": "Threatened"
     },
-    {
-      "species_id": 9251,
-      "group_name": "Flowering Plants",
-      "invname": "No common name",
-      "comname": "No common name",
-      "alt_status": null,
-      "sciname": "Festuca molokaiensis",
-      "status_category": "Listed",
-      "region_name": "Region 1",
-      "id": 10235,
-      "abbrev": "Wherever found",
-      "region_num": 1,
-      "region_desc": "Pacific Region",
-      "vip": "P",
-      "status": "Endangered"
-    },
+
     {
       "species_id": 6855,
       "group_name": "Flowering Plants",

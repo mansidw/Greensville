@@ -3,10 +3,11 @@ import { Button, Stack } from "@mui/material";
 import NewsAPI from "newsapi";
 import "../assets/css/Loading.css";
 import Weather from "../components/weather";
+import Extinction from "../components/extinction";
 
 export function InitialView(props) {
   const [news, setNews] = useState();
-  const [showWeather, setShowWeather] = useState(false);
+  const [showWeather, setShowWeather] = useState(0);
   const newsapi = new NewsAPI(process.env.REACT_APP_NEWSAPI_KEY);
 
   useEffect(() => {
@@ -37,7 +38,7 @@ export function InitialView(props) {
   }, []);
   return (
     <>
-      {!showWeather ? (
+      {!showWeather && (
         <>
           <div
             className="center-view"
@@ -82,7 +83,7 @@ export function InitialView(props) {
                 fontFamily: "Advent Pro",
                 backgroundColor: "#B9F3FC",
               }}
-              onClick={() => setShowWeather(true)}
+              onClick={() => setShowWeather(1)}
             >
               Weather Story 🌤️
             </Button>
@@ -95,14 +96,16 @@ export function InitialView(props) {
                 fontFamily: "Advent Pro",
                 backgroundColor: "#B9F3FC",
               }}
+              onClick={() => setShowWeather(2)}
             >
               Our Loss 🥴
             </Button>
           </Stack>
         </>
-      ) : (
-        <Weather />
       )}
+
+      {showWeather === 1 && <Weather />}
+      {showWeather === 2 && <Extinction />}
     </>
   );
 }
